@@ -9,4 +9,3 @@ export default function taskBlock(trueOrFalse) {
   task2 = true;
   return [task, task2];
 }
-
